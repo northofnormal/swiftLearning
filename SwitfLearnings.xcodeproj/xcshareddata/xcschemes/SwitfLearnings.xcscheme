@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1530"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES"
+      buildArchitectures = "Automatic">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "493559F42C7BC0A000E698B5"
+               BuildableName = "SwitfLearnings.app"
+               BlueprintName = "SwitfLearnings"
+               ReferencedContainer = "container:SwitfLearnings.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      shouldAutocreateTestPlan = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "49355A042C7BC0A100E698B5"
+               BuildableName = "SwitfLearningsTests.xctest"
+               BlueprintName = "SwitfLearningsTests"
+               ReferencedContainer = "container:SwitfLearnings.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "49355A0E2C7BC0A100E698B5"
+               BuildableName = "SwitfLearningsUITests.xctest"
+               BlueprintName = "SwitfLearningsUITests"
+               ReferencedContainer = "container:SwitfLearnings.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "493559F42C7BC0A000E698B5"
+            BuildableName = "SwitfLearnings.app"
+            BlueprintName = "SwitfLearnings"
+            ReferencedContainer = "container:SwitfLearnings.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "API_Key"
+            value = "Run Of Show &#10;-----------&#10;4-5pm: family pictures &#10;no tunes &#10;&#10;5-6 pm: Cocktail hour &#10;Tunes/Vibe: &#10;&#10;6-7 pm: Dinner hour &#10;Tunes/Vibe: &#10;have some words of welcome (us? DJ? a friend?) &#10;have a toast (us? a friend?)  &#10;&#10;7-midnight: partyparty &#10;Tunes/Vibe: classic motown/90&apos;s jams/&#10;018b75dfb550180a719e8889eb7617a8"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "493559F42C7BC0A000E698B5"
+            BuildableName = "SwitfLearnings.app"
+            BlueprintName = "SwitfLearnings"
+            ReferencedContainer = "container:SwitfLearnings.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
